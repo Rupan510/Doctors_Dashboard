@@ -1,0 +1,2798 @@
+
+.appointments_appointments {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.appointments_appointments .Appointments {
+	position: absolute;
+	left: 117px;
+	top: 74px;
+	width: 179px;
+	height: 33px;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 26px;
+	font-weight: 600;
+	line-height: 32.5px;
+}
+.appointments_appointments .Group805 {
+	position: absolute;
+	left: 117px;
+	top: 131px;
+	width: 190px;
+	height: 22px;
+}
+.appointments_appointments .Group805 .Subtitle {
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	width: 190px;
+	height: 22px;
+	color: rgba(41,55,95,0.60);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.appointments_appointments .Rectangle104 {
+	position: absolute;
+	left: 117px;
+	top: 163px;
+	width: 1253px;
+	height: 1px;
+	background: rgba(54,68,105,0.30);
+}
+.appointments_appointments .Group905 {
+	position: absolute;
+	left: 109px;
+	top: 268px;
+	width: 1261px;
+	height: 575px;
+}
+.appointments_appointments .Group905 .Rectangle177 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1261px;
+	height: 575px;
+	border-radius: 6px;
+}
+.appointments_appointments .Group905 .UserName {
+	position: absolute;
+	left: 304px;
+	top: 72px;
+	width: 39px;
+	height: 17px;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .icons {
+	position: absolute;
+	left: 276px;
+	top: 74px;
+	width: 17.5px;
+	height: 10.76904296875px;
+}
+.appointments_appointments .Group905 .icons .Video {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.appointments_appointments .Group905 .icons .Video .Group {
+	position: absolute;
+	left: 0.3125px;
+	top: 0.09326171875px;
+	width: 96.43973214285714%;
+	height: 95.36159600997506%;
+}
+.appointments_appointments .Group905 .icons .Video .Group .Vector {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 71.41534544612892%;
+	height: 100%;
+}
+.appointments_appointments .Group905 .icons .Video .Group .Vector_1 {
+	position: absolute;
+	left: 13.068359375px;
+	top: 1.0859375px;
+	width: 22.5668325425298%;
+	height: 78.86078356789655%;
+}
+.appointments_appointments .Group905 .icons .ANytime {
+	visibility: hidden;
+	position: absolute;
+	left: 1.794921875px;
+	top: 0px;
+	width: 47.86830357142857%;
+	height: 122.22625255044208%;
+}
+.appointments_appointments .Group905 .icons .InPerson {
+	visibility: hidden;
+	position: absolute;
+	left: 2.69140625px;
+	top: 0px;
+	width: 38.638392857142854%;
+	height: 125.5860349127182%;
+}
+.appointments_appointments .Group905 .icons_1 {
+	position: absolute;
+	left: 276px;
+	top: 162px;
+	width: 17.5px;
+	height: 10.76904296875px;
+}
+.appointments_appointments .Group905 .icons_1 .Video_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.appointments_appointments .Group905 .icons_1 .Video_1 .Group_1 {
+	position: absolute;
+	left: 0.3125px;
+	top: 0.09326171875px;
+	width: 96.43973214285714%;
+	height: 95.36159600997506%;
+}
+.appointments_appointments .Group905 .icons_1 .Video_1 .Group_1 .Vector_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 71.41534544612892%;
+	height: 100%;
+}
+.appointments_appointments .Group905 .icons_1 .Video_1 .Group_1 .Vector_3 {
+	position: absolute;
+	left: 13.068359375px;
+	top: 1.0859375px;
+	width: 22.5668325425298%;
+	height: 78.86078356789655%;
+}
+.appointments_appointments .Group905 .icons_1 .ANytime_1 {
+	visibility: hidden;
+	position: absolute;
+	left: 1.794921875px;
+	top: 0px;
+	width: 47.86830357142857%;
+	height: 122.22625255044208%;
+}
+.appointments_appointments .Group905 .icons_1 .InPerson_1 {
+	visibility: hidden;
+	position: absolute;
+	left: 2.69140625px;
+	top: 0px;
+	width: 38.638392857142854%;
+	height: 125.5860349127182%;
+}
+.appointments_appointments .Group905 .icons_2 {
+	position: absolute;
+	left: 276px;
+	top: 339px;
+	width: 17.5px;
+	height: 10.76904296875px;
+}
+.appointments_appointments .Group905 .icons_2 .Video_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.appointments_appointments .Group905 .icons_2 .Video_2 .Group_2 {
+	position: absolute;
+	left: 0.3125px;
+	top: 0.09326171875px;
+	width: 96.43973214285714%;
+	height: 95.36159600997506%;
+}
+.appointments_appointments .Group905 .icons_2 .Video_2 .Group_2 .Vector_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 71.41534544612892%;
+	height: 100%;
+}
+.appointments_appointments .Group905 .icons_2 .Video_2 .Group_2 .Vector_5 {
+	position: absolute;
+	left: 13.068359375px;
+	top: 1.0859375px;
+	width: 22.5668325425298%;
+	height: 78.86078356789655%;
+}
+.appointments_appointments .Group905 .icons_2 .ANytime_2 {
+	visibility: hidden;
+	position: absolute;
+	left: 1.794921875px;
+	top: 0px;
+	width: 47.86830357142857%;
+	height: 122.22625255044208%;
+}
+.appointments_appointments .Group905 .icons_2 .InPerson_2 {
+	visibility: hidden;
+	position: absolute;
+	left: 2.69140625px;
+	top: 0px;
+	width: 38.638392857142854%;
+	height: 125.5860349127182%;
+}
+.appointments_appointments .Group905 .icons_3 {
+	position: absolute;
+	left: 276px;
+	top: 515px;
+	width: 17.5px;
+	height: 10.76904296875px;
+}
+.appointments_appointments .Group905 .icons_3 .Video_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.appointments_appointments .Group905 .icons_3 .Video_3 .Group_3 {
+	position: absolute;
+	left: 0.3125px;
+	top: 0.09326171875px;
+	width: 96.43973214285714%;
+	height: 95.36159600997506%;
+}
+.appointments_appointments .Group905 .icons_3 .Video_3 .Group_3 .Vector_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 71.41534544612892%;
+	height: 100%;
+}
+.appointments_appointments .Group905 .icons_3 .Video_3 .Group_3 .Vector_7 {
+	position: absolute;
+	left: 13.068359375px;
+	top: 1.0859375px;
+	width: 22.5668325425298%;
+	height: 78.86078356789655%;
+}
+.appointments_appointments .Group905 .icons_3 .ANytime_3 {
+	visibility: hidden;
+	position: absolute;
+	left: 1.794921875px;
+	top: 0px;
+	width: 47.86830357142857%;
+	height: 122.22625255044208%;
+}
+.appointments_appointments .Group905 .icons_3 .InPerson_3 {
+	visibility: hidden;
+	position: absolute;
+	left: 2.69140625px;
+	top: 0px;
+	width: 38.638392857142854%;
+	height: 125.5860349127182%;
+}
+.appointments_appointments .Group905 .icons_4 {
+	position: absolute;
+	left: 276px;
+	top: 425px;
+	width: 8.03515625px;
+	height: 16.06982421875px;
+}
+.appointments_appointments .Group905 .icons_4 .Video_4 {
+	visibility: hidden;
+	position: absolute;
+	left: -3.19921875px;
+	top: -176px;
+	width: 258.79922216820614%;
+	height: 79.62991097201544%;
+}
+.appointments_appointments .Group905 .icons_4 .Video_4 .Group_4 {
+	position: absolute;
+	left: 0.37109375px;
+	top: 0.11083984375px;
+	width: 0%;
+	height: 0%;
+}
+.appointments_appointments .Group905 .icons_4 .Video_4 .Group_4 .Vector_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: Infinity%;
+	height: Infinity%;
+}
+.appointments_appointments .Group905 .icons_4 .Video_4 .Group_4 .Vector_9 {
+	position: absolute;
+	left: 15.529296875px;
+	top: 1.2900390625px;
+	width: Infinity%;
+	height: Infinity%;
+}
+.appointments_appointments .Group905 .icons_4 .ANytime_4 {
+	visibility: hidden;
+	position: absolute;
+	left: -1.06640625px;
+	top: -176px;
+	width: 123.86971317452603%;
+	height: 97.32612196530036%;
+}
+.appointments_appointments .Group905 .icons_4 .InPerson_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.appointments_appointments .Group905 .UserName_1 {
+	position: absolute;
+	left: 276px;
+	top: 93px;
+	width: 117px;
+	height: 17px;
+	color: rgba(41,55,95,0.60);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .UserName_2 {
+	position: absolute;
+	left: 304px;
+	top: 160px;
+	width: 39px;
+	height: 17px;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .UserName_3 {
+	position: absolute;
+	left: 276px;
+	top: 181px;
+	width: 66px;
+	height: 17px;
+	color: rgba(41,55,95,0.60);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .UserName_4 {
+	position: absolute;
+	left: 293px;
+	top: 258px;
+	width: 111px;
+	height: 17px;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .DocInfo {
+	position: absolute;
+	left: 275px;
+	top: 259px;
+	width: 10.333984375px;
+	height: 16.23828125px;
+}
+.appointments_appointments .Group905 .DocInfo .icons_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 10.333984375px;
+	height: 16.23828125px;
+}
+.appointments_appointments .Group905 .DocInfo .icons_5 .Video_5 {
+	visibility: hidden;
+	position: absolute;
+	left: -2.21484375px;
+	top: 0.00048828125px;
+	width: 208.9208089208089%;
+	height: 81.81681501082511%;
+}
+.appointments_appointments .Group905 .DocInfo .icons_5 .ANytime_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.appointments_appointments .Group905 .DocInfo .icons_5 .InPerson_5 {
+	visibility: hidden;
+	position: absolute;
+	left: 1.107421875px;
+	top: 0.00048828125px;
+	width: 80.72198072198073%;
+	height: 102.74837623286024%;
+}
+.appointments_appointments .Group905 .UserName_5 {
+	position: absolute;
+	left: 293px;
+	top: 424px;
+	width: 66px;
+	height: 17px;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .UserName_6 {
+	position: absolute;
+	left: 276px;
+	top: 445px;
+	width: 105px;
+	height: 17px;
+	color: rgba(41,55,95,0.60);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .UserName_7 {
+	position: absolute;
+	left: 304px;
+	top: 336px;
+	width: 39px;
+	height: 17px;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .UserName_8 {
+	position: absolute;
+	left: 276px;
+	top: 357px;
+	width: 117px;
+	height: 17px;
+	color: rgba(41,55,95,0.60);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .UserName_9 {
+	position: absolute;
+	left: 304px;
+	top: 512px;
+	width: 39px;
+	height: 17px;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .UserName_10 {
+	position: absolute;
+	left: 276px;
+	top: 533px;
+	width: 117px;
+	height: 17px;
+	color: rgba(41,55,95,0.60);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .ShapeMore {
+	position: absolute;
+	left: 1236px;
+	top: 79px;
+	width: 0.3398220658207772%;
+	height: 3.4782608695652173%;
+}
+.appointments_appointments .Group905 .ShapeMore_1 {
+	position: absolute;
+	left: 1236px;
+	top: 167px;
+	width: 0.3398220658207772%;
+	height: 3.4782608695652173%;
+}
+.appointments_appointments .Group905 .ShapeMore_2 {
+	position: absolute;
+	left: 1236px;
+	top: 254px;
+	width: 0.3398220658207772%;
+	height: 3.4782608695652173%;
+}
+.appointments_appointments .Group905 .ShapeMore_3 {
+	position: absolute;
+	left: 1236px;
+	top: 429px;
+	width: 0.3398220658207772%;
+	height: 3.4782608695652173%;
+}
+.appointments_appointments .Group905 .ShapeMore_4 {
+	position: absolute;
+	left: 1236px;
+	top: 341px;
+	width: 0.3398220658207772%;
+	height: 3.4782608695652173%;
+}
+.appointments_appointments .Group905 .ShapeMore_5 {
+	position: absolute;
+	left: 1236px;
+	top: 517px;
+	width: 0.3398220658207772%;
+	height: 3.4782608695652173%;
+}
+.appointments_appointments .Group905 .Lastlogin {
+	position: absolute;
+	left: 785px;
+	top: 68px;
+	width: 5.709754163362411%;
+	height: 6.782608695652175%;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Lastlogin_1 {
+	position: absolute;
+	left: 785px;
+	top: 159px;
+	width: 5.709754163362411%;
+	height: 6.782608695652175%;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Lastlogin_2 {
+	position: absolute;
+	left: 785px;
+	top: 243px;
+	width: 5.709754163362411%;
+	height: 6.782608695652175%;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Lastlogin_3 {
+	position: absolute;
+	left: 785px;
+	top: 335px;
+	width: 5.709754163362411%;
+	height: 6.782608695652175%;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Lastlogin_4 {
+	position: absolute;
+	left: 785px;
+	top: 422px;
+	width: 5.709754163362411%;
+	height: 6.782608695652175%;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Lastlogin_5 {
+	position: absolute;
+	left: 785px;
+	top: 511px;
+	width: 5.709754163362411%;
+	height: 6.782608695652175%;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Lastlogin_6 {
+	position: absolute;
+	left: 629px;
+	top: 82px;
+	width: 5.6304520222046%;
+	height: 2.9565217391304346%;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Lastlogin_7 {
+	position: absolute;
+	left: 629px;
+	top: 170px;
+	width: 7.8509119746233145%;
+	height: 2.9565217391304346%;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Lastlogin_8 {
+	position: absolute;
+	left: 629px;
+	top: 257px;
+	width: 5.947660586835844%;
+	height: 2.9565217391304346%;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Lastlogin_9 {
+	position: absolute;
+	left: 629px;
+	top: 434px;
+	width: 7.9302141157811255%;
+	height: 2.9565217391304346%;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Lastlogin_10 {
+	position: absolute;
+	left: 629px;
+	top: 346px;
+	width: 7.216494845360824%;
+	height: 2.9565217391304346%;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Lastlogin_11 {
+	position: absolute;
+	left: 629px;
+	top: 522px;
+	width: 7.7716098334655035%;
+	height: 2.9565217391304346%;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Rectangle57 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1261px;
+	height: 46px;
+}
+.appointments_appointments .Group905 .Group975 {
+	position: absolute;
+	left: 942px;
+	top: 254px;
+	width: 80px;
+	height: 22px;
+	border-radius: 12px;
+}
+.appointments_appointments .Group905 .Group975 .Rectangle177_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(242,240,249,1.00);
+	border-radius: 12px;
+}
+.appointments_appointments .Group905 .Group975 .Completed {
+	position: absolute;
+	left: 9px;
+	top: 3px;
+	width: 80%;
+	height: 68.18181818181817%;
+	color: rgba(101,111,141,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 14.522727012634277px;
+}
+.appointments_appointments .Group905 .status {
+	position: absolute;
+	left: 939px;
+	top: 16px;
+	width: 47px;
+	height: 15px;
+	color: rgba(41,55,95,0.60);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 14.522727012634277px;
+	text-transform: uppercase;
+}
+.appointments_appointments .Group905 .invoice {
+	position: absolute;
+	left: 1076px;
+	top: 16px;
+	width: 50px;
+	height: 15px;
+	color: rgba(41,55,95,0.60);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 14.522727012634277px;
+	text-transform: uppercase;
+}
+.appointments_appointments .Group905 .Group7460 {
+	position: absolute;
+	left: 939px;
+	top: 78px;
+	width: 84px;
+	height: 22px;
+	border-radius: 12px;
+}
+.appointments_appointments .Group905 .Group7460 .Rectangle67 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(242,240,249,1.00);
+	border-radius: 12px;
+}
+.appointments_appointments .Group905 .Group7460 .Cancelled {
+	position: absolute;
+	left: 13px;
+	top: 4px;
+	width: 69.04761904761905%;
+	height: 68.18181818181817%;
+	color: rgba(101,111,141,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 14.522727012634277px;
+}
+.appointments_appointments .Group905 .StatusUnpaid {
+	position: absolute;
+	left: 940px;
+	top: 166px;
+	width: 67px;
+	height: 22px;
+	border-radius: 12px;
+}
+.appointments_appointments .Group905 .StatusUnpaid .Rectangle67_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 108.95522388059702%;
+	height: 100%;
+	background: rgba(242,240,249,1.00);
+	border-radius: 10px;
+}
+.appointments_appointments .Group905 .StatusUnpaid .NoShow {
+	position: absolute;
+	left: 12px;
+	top: 4px;
+	width: 77.61194029850746%;
+	height: 68.18181818181817%;
+	color: rgba(101,111,141,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 14.522727012634277px;
+}
+.appointments_appointments .Group905 .StatusUnpaid_1 {
+	position: absolute;
+	left: 940px;
+	top: 343px;
+	width: 67px;
+	height: 22px;
+	border-radius: 12px;
+}
+.appointments_appointments .Group905 .StatusUnpaid_1 .Rectangle67_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(242,240,249,1.00);
+	border-radius: 10px;
+}
+.appointments_appointments .Group905 .StatusUnpaid_1 .Booked {
+	position: absolute;
+	left: 12px;
+	top: 4px;
+	width: 65.67164179104478%;
+	height: 68.18181818181817%;
+	color: rgba(101,111,141,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 14.522727012634277px;
+}
+.appointments_appointments .Group905 .Group976 {
+	position: absolute;
+	left: 940px;
+	top: 431px;
+	width: 86px;
+	height: 22px;
+	border-radius: 12px;
+}
+.appointments_appointments .Group905 .Group976 .Rectangle177_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(242,240,249,1.00);
+	border-radius: 12px;
+}
+.appointments_appointments .Group905 .Group976 .Completed_1 {
+	position: absolute;
+	left: 11px;
+	top: 3px;
+	width: 74.4186046511628%;
+	height: 68.18181818181817%;
+	color: rgba(101,111,141,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 14.522727012634277px;
+}
+.appointments_appointments .Group905 .Group977 {
+	position: absolute;
+	left: 940px;
+	top: 519px;
+	width: 86px;
+	height: 22px;
+	border-radius: 12px;
+}
+.appointments_appointments .Group905 .Group977 .Rectangle177_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(242,240,249,1.00);
+	border-radius: 12px;
+}
+.appointments_appointments .Group905 .Group977 .Completed_2 {
+	position: absolute;
+	left: 11px;
+	top: 3px;
+	width: 74.4186046511628%;
+	height: 68.18181818181817%;
+	color: rgba(101,111,141,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 14.522727012634277px;
+}
+.appointments_appointments .Group905 .Group1017 {
+	position: absolute;
+	left: 1077px;
+	top: 79px;
+	width: 79px;
+	height: 22px;
+	border-radius: 12px;
+}
+.appointments_appointments .Group905 .Group1017 .Rectangle177_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(242,240,249,1.00);
+	border-radius: 12px;
+}
+.appointments_appointments .Group905 .Group1017 .Refunded {
+	position: absolute;
+	left: 14px;
+	top: 3px;
+	width: 70.88607594936708%;
+	height: 68.18181818181817%;
+	color: rgba(101,111,141,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 500;
+	line-height: 14.522727012634277px;
+}
+.appointments_appointments .Group905 .Group1014 {
+	position: absolute;
+	left: 1077px;
+	top: 168px;
+	width: 69px;
+	height: 22px;
+	border-radius: 12px;
+}
+.appointments_appointments .Group905 .Group1014 .Rectangle67_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(255,224,224,1.00);
+	border-radius: 12px;
+}
+.appointments_appointments .Group905 .Group1014 .Unpaid {
+	position: absolute;
+	left: 13px;
+	top: 4px;
+	width: 59.42028985507246%;
+	height: 68.18181818181817%;
+	color: rgba(211,0,0,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.522727012634277px;
+}
+.appointments_appointments .Group905 .Group1022 {
+	position: absolute;
+	left: 1077px;
+	top: 431px;
+	width: 69px;
+	height: 22px;
+	border-radius: 12px;
+}
+.appointments_appointments .Group905 .Group1022 .Rectangle67_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(255,224,224,1.00);
+	border-radius: 12px;
+}
+.appointments_appointments .Group905 .Group1022 .Unpaid_1 {
+	position: absolute;
+	left: 13px;
+	top: 4px;
+	width: 59.42028985507246%;
+	height: 68.18181818181817%;
+	color: rgba(211,0,0,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.522727012634277px;
+}
+.appointments_appointments .Group905 .Group1020 {
+	position: absolute;
+	left: 1077px;
+	top: 254px;
+	width: 49px;
+	height: 22px;
+	border-radius: 10px;
+}
+.appointments_appointments .Group905 .Group1020 .Rectangle69 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(205,255,205,1.00);
+	border-radius: 10px;
+}
+.appointments_appointments .Group905 .Group1020 .Paid {
+	position: absolute;
+	left: 12px;
+	top: 4px;
+	width: 51.02040816326531%;
+	height: 68.18181818181817%;
+	color: rgba(0,127,0,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.522727012634277px;
+}
+.appointments_appointments .Group905 .Group1021 {
+	position: absolute;
+	left: 1077px;
+	top: 342px;
+	width: 49px;
+	height: 22px;
+	border-radius: 10px;
+}
+.appointments_appointments .Group905 .Group1021 .Rectangle69_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(205,255,205,1.00);
+	border-radius: 10px;
+}
+.appointments_appointments .Group905 .Group1021 .Paid_1 {
+	position: absolute;
+	left: 12px;
+	top: 4px;
+	width: 51.02040816326531%;
+	height: 68.18181818181817%;
+	color: rgba(0,127,0,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.522727012634277px;
+}
+.appointments_appointments .Group905 .Group1023 {
+	position: absolute;
+	left: 1077px;
+	top: 519px;
+	width: 49px;
+	height: 22px;
+	border-radius: 10px;
+}
+.appointments_appointments .Group905 .Group1023 .Rectangle69_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(205,255,205,1.00);
+	border-radius: 10px;
+}
+.appointments_appointments .Group905 .Group1023 .Paid_2 {
+	position: absolute;
+	left: 12px;
+	top: 4px;
+	width: 51.02040816326531%;
+	height: 68.18181818181817%;
+	color: rgba(0,127,0,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.522727012634277px;
+}
+.appointments_appointments .Group905 .Slot {
+	position: absolute;
+	left: 785px;
+	top: 16px;
+	width: 32px;
+	height: 15px;
+	color: rgba(41,55,95,0.60);
+	text-transform: uppercase;
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 14.522727012634277px;
+}
+.appointments_appointments .Group905 .doctor {
+	position: absolute;
+	left: 629px;
+	top: 16px;
+	width: 52px;
+	height: 15px;
+	color: rgba(41,55,95,0.60);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 14.522727012634277px;
+	text-transform: uppercase;
+}
+.appointments_appointments .Group905 .action {
+	position: absolute;
+	left: 1193px;
+	top: 16px;
+	width: 47px;
+	height: 15px;
+	color: rgba(41,55,95,0.60);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 14.522727012634277px;
+	text-transform: uppercase;
+}
+.appointments_appointments .Group905 .orderID {
+	position: absolute;
+	left: 32px;
+	top: 16px;
+	width: 56px;
+	height: 15px;
+	color: rgba(41,55,95,0.60);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 14.522727012634277px;
+	text-transform: uppercase;
+}
+.appointments_appointments .Group905 .patient {
+	position: absolute;
+	left: 127px;
+	top: 16px;
+	width: 54px;
+	height: 15px;
+	color: rgba(41,55,95,0.60);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 14.522727012634277px;
+	text-transform: uppercase;
+}
+.appointments_appointments .Group905 .Consultation {
+	position: absolute;
+	left: 276px;
+	top: 16px;
+	width: 94px;
+	height: 15px;
+	color: rgba(41,55,95,0.60);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 14.522727012634277px;
+	text-transform: uppercase;
+}
+.appointments_appointments .Group905 .team {
+	position: absolute;
+	left: 466px;
+	top: 16px;
+	width: 35px;
+	height: 15px;
+	color: rgba(41,55,95,0.60);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 14.522727012634277px;
+	text-transform: uppercase;
+}
+.appointments_appointments .Group905 .UserName_11 {
+	position: absolute;
+	left: 32px;
+	top: 72px;
+	width: 60px;
+	height: 17px;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Rectangle59 {
+	position: absolute;
+	left: 0px;
+	top: 134px;
+	width: 100%;
+	height: 0.17391304347826086%;
+	background: rgba(191,210,243,1.00);
+}
+.appointments_appointments .Group905 .Rectangle194 {
+	position: absolute;
+	left: 0px;
+	top: 45px;
+	width: 100%;
+	height: 0.17391304347826086%;
+	background: rgba(191,210,243,1.00);
+}
+.appointments_appointments .Group905 .Group883 {
+	position: absolute;
+	left: 0px;
+	top: 72px;
+	width: 1261px;
+	height: 477px;
+}
+.appointments_appointments .Group905 .Group883 .Marley {
+	position: absolute;
+	left: 127px;
+	top: 0px;
+	width: 80px;
+	height: 17px;
+	color: rgba(39,154,241,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Group883 .Marley_1 {
+	position: absolute;
+	left: 127px;
+	top: 88px;
+	width: 38px;
+	height: 17px;
+	color: rgba(39,154,241,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Group883 .Marley_2 {
+	position: absolute;
+	left: 127px;
+	top: 176px;
+	width: 59px;
+	height: 17px;
+	color: rgba(39,154,241,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Group883 .Marley_3 {
+	position: absolute;
+	left: 127px;
+	top: 352px;
+	width: 98px;
+	height: 17px;
+	color: rgba(39,154,241,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Group883 .Marley_4 {
+	position: absolute;
+	left: 127px;
+	top: 264px;
+	width: 90px;
+	height: 17px;
+	color: rgba(39,154,241,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Group883 .Marley_5 {
+	position: absolute;
+	left: 127px;
+	top: 440px;
+	width: 81px;
+	height: 17px;
+	color: rgba(39,154,241,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Group883 .EmailID {
+	position: absolute;
+	left: 127px;
+	top: 22px;
+	width: 29px;
+	height: 15px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(41,55,95,0.50);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.522727012634277px;
+}
+.appointments_appointments .Group905 .Group883 .EmailID_1 {
+	position: absolute;
+	left: 123px;
+	top: 110px;
+	width: 33px;
+	height: 15px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(41,55,95,0.50);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.522727012634277px;
+}
+.appointments_appointments .Group905 .Group883 .EmailID_2 {
+	position: absolute;
+	left: 124px;
+	top: 198px;
+	width: 31px;
+	height: 15px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(41,55,95,0.50);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.522727012634277px;
+}
+.appointments_appointments .Group905 .Group883 .EmailID_3 {
+	position: absolute;
+	left: 122px;
+	top: 374px;
+	width: 33px;
+	height: 15px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(41,55,95,0.50);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.522727012634277px;
+}
+.appointments_appointments .Group905 .Group883 .EmailID_4 {
+	position: absolute;
+	left: 127px;
+	top: 286px;
+	width: 29px;
+	height: 15px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(41,55,95,0.50);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.522727012634277px;
+}
+.appointments_appointments .Group905 .Group883 .EmailID_5 {
+	position: absolute;
+	left: 129px;
+	top: 462px;
+	width: 27px;
+	height: 15px;
+	display: flex;
+	justify-content: flex-end;
+	text-align: right;
+	color: rgba(41,55,95,0.50);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.522727012634277px;
+}
+.appointments_appointments .Group905 .Group883 .UserName_12 {
+	position: absolute;
+	left: 466px;
+	top: 87px;
+	width: 95px;
+	height: 19px;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18.926250457763672px;
+}
+.appointments_appointments .Group905 .Group883 .UserName_13 {
+	position: absolute;
+	left: 32px;
+	top: 88px;
+	width: 60px;
+	height: 17px;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Group883 .Rectangle193 {
+	position: absolute;
+	left: 0px;
+	top: 150px;
+	width: 100%;
+	height: 0.20964360587002098%;
+	background: rgba(191,210,243,1.00);
+}
+.appointments_appointments .Group905 .Group883 .Rectangle194_1 {
+	position: absolute;
+	left: 0px;
+	top: 326px;
+	width: 100%;
+	height: 0.20964360587002098%;
+	background: rgba(191,210,243,1.00);
+}
+.appointments_appointments .Group905 .Group884 {
+	position: absolute;
+	left: 0px;
+	top: 248px;
+	width: 1261px;
+	height: 63px;
+}
+.appointments_appointments .Group905 .Group884 .UserName_14 {
+	position: absolute;
+	left: 32px;
+	top: 0px;
+	width: 60px;
+	height: 17px;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Group884 .Rectangle193_1 {
+	position: absolute;
+	left: 0px;
+	top: 62px;
+	width: 100%;
+	height: 1.5873015873015872%;
+	background: rgba(191,210,243,1.00);
+}
+.appointments_appointments .Group905 .Group886 {
+	position: absolute;
+	left: 0px;
+	top: 424px;
+	width: 1261px;
+	height: 63px;
+}
+.appointments_appointments .Group905 .Group886 .UserName_15 {
+	position: absolute;
+	left: 32px;
+	top: 0px;
+	width: 60px;
+	height: 17px;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Group886 .Rectangle193_2 {
+	position: absolute;
+	left: 0px;
+	top: 62px;
+	width: 100%;
+	height: 1.5873015873015872%;
+	background: rgba(191,210,243,1.00);
+}
+.appointments_appointments .Group905 .Group885 {
+	position: absolute;
+	left: 32px;
+	top: 335px;
+	width: 529px;
+	height: 19px;
+}
+.appointments_appointments .Group905 .Group885 .UserName_16 {
+	position: absolute;
+	left: 434px;
+	top: 0px;
+	width: 95px;
+	height: 19px;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18.926250457763672px;
+}
+.appointments_appointments .Group905 .Group885 .UserName_17 {
+	position: absolute;
+	left: 0px;
+	top: 1px;
+	width: 56px;
+	height: 17px;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group905 .Group887 {
+	position: absolute;
+	left: 32px;
+	top: 512px;
+	width: 56px;
+	height: 17px;
+}
+.appointments_appointments .Group905 .Group887 .UserName_18 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 56px;
+	height: 17px;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 16.94318199157715px;
+}
+.appointments_appointments .Group864 {
+	position: absolute;
+	left: 1235px;
+	top: 103px;
+	width: 135px;
+	height: 44px;
+	border-radius: 12px;
+}
+.appointments_appointments .Group864 .Frame1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 135px;
+	height: 44px;
+	display: flex;
+	padding-top: 10px;
+	padding-right: 18px;
+	padding-bottom: 10px;
+	padding-left: 18px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	border-radius: 12px;
+	border: 1px solid rgba(252.00000017881393,105.00000134110451,100.00000163912773,1);
+}
+.appointments_appointments .Group864 .Frame1 .Add {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 20.74074074074074%;
+	height: 50%;
+	color: rgba(252,105,100,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 22px;
+	margin-top: -11px;
+}
+.appointments_appointments .Group864 .Frame1 .Add_round_fill {
+	position: relative;
+	flex: none;
+	margin-right: 10px;
+	width: 17.77777777777778%;
+	height: 54.54545454545454%;
+}
+.appointments_appointments .Group864 .Frame1 .Add_round_fill .Subtract {
+	position: absolute;
+	left: 3px;
+	top: 3px;
+	width: 18px;
+	height: 18px;
+	margin-top: -7px;
+}
+.appointments_appointments .Inputfield4 {
+	position: absolute;
+	left: 117px;
+	top: 197px;
+	width: 302px;
+	height: 46px;
+}
+.appointments_appointments .Inputfield4 .Group101 {
+	position: absolute;
+	left: 1px;
+	top: 1px;
+	width: 99.33774834437085%;
+	height: 95.65217391304348%;
+	border-radius: 6px;
+}
+.appointments_appointments .Inputfield4 .Group101 .Rectangle78 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(255,255,255,1.00);
+	border-radius: 6px;
+	border: 1px solid rgba(192.31249898672104,206.10375255346298,255,1);
+}
+.appointments_appointments .Inputfield4 .Group101 .Searchbynamenumber {
+	position: absolute;
+	left: 24px;
+	top: 11px;
+	width: 55.00000000000001%;
+	height: 50%;
+	color: rgba(41,55,95,0.40);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.appointments_appointments .Inputfield4 .search {
+	position: absolute;
+	left: 263px;
+	top: 9px;
+	width: 7.9470198675496695%;
+	height: 52.17391304347826%;
+}
+.appointments_appointments .Inputfield4 .search .Vector_10 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.appointments_appointments .Inputfield4 .search .Vector_11 {
+	position: absolute;
+	left: 4px;
+	top: 5px;
+	width: 72.8759765625%;
+	height: 72.8759765625%;
+}
+.appointments_appointments .CondensedActive {
+	position: absolute;
+	left: 443px;
+	top: 196px;
+	width: 183px;
+	height: 48px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	align-items: center;
+}
+.appointments_appointments .CondensedActive .MainCondensed {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 183px;
+	height: 48.001953125px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	border-radius: 2px;
+	background: #FFFFFF;
+	border: 1px solid #BFD2F3;
+	border-radius: 12px;
+	width: 100%;
+}
+
+.appointments_appointments .CondensedActive .MainCondensed .dropdown-toggle{
+	width: 100%;
+	height: 100%;
+	border-radius: 11px;
+	padding: 0px;
+	margin: 0%;
+}
+.appointments_appointments .CondensedActive .MainCondensed .dropdown-toggle::after{
+	margin-left: 50px;
+}
+
+.appointments_appointments .CondensedActive .MainCondensed .Input {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 183px;
+	height: 48.001953125px;
+	display: flex;
+	flex-direction: column;
+	padding-right: 16px;
+	padding-left: 16px;
+	box-sizing: border-box;
+	background: rgba(255,255,255,1.00);
+	border-radius: 12px;
+	border: 1px solid rgba(191.00000381469727,210.00000268220901,243.00000071525574,1);
+	box-sizing: border-box;
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .Label {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+	height: 0.0009765625px;
+	align-self: stretch;
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .Label .Label_1 {
+	position: absolute;
+	left: 0px;
+	top: -10px;
+	width: 28px;
+	height: 20.0009765625px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	border-radius: 4px;
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .Label .Label_1 .LabelBackground {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 0.0009765625px;
+	align-self: stretch;
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .Label .Label_1 .LabelBackground .Background {
+	position: absolute;
+	margin-left: -4px;
+	margin-right: -4px;
+	top: 0px;
+	width: 36px;
+	height: 20px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 8px;
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .Label .Label_1 .Text {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 28px;
+	height: 20px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .Label .Label_1 .Text .InputLabel {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 28px;
+	display: flex;
+	align-items: center;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .IconText {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+	width: 67px;
+	height: 24px;
+	display: flex;
+	box-sizing: border-box;
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .IconText .Communicationphone {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 24px;
+	height: 24px;
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .IconText .Communicationphone .IconMask {
+	position: absolute;
+	left: 3.017578125px;
+	top: 3.01806640625px;
+	width: 74.84537760416666%;
+	height: 74.84944661458334%;
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .IconText .Communicationphone .IconMask .Round {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .IconText .Communicationphone .ColorFill {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(133,140,148,1.00);
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .IconText .TextArea {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .Icons {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+	height: 0.0009765625px;
+	align-self: stretch;
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .Icons .Navigationarrowdrop_down {
+	position: absolute;
+	left: 128px;
+	top: -36px;
+	width: 15.894039735099339%;
+	height: 2457600%;
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .Icons .Navigationarrowdrop_down .Vector_12 {
+	position: absolute;
+	left: 7px;
+	top: 8.9990234375px;
+	width: 50%;
+	height: 25%;
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .Icons .Navigationclose {
+	position: absolute;
+	right: 30px;
+	bottom: 12.0009765625px;
+	width: 24px;
+	height: 24px;
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .Icons .Navigationclose .IconMask_1 {
+	position: absolute;
+	left: 5.408203125px;
+	top: 5.40771484375px;
+	width: 54.939778645833336%;
+	height: 54.937744140625%;
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .Icons .Navigationclose .ColorFill_1 {
+	visibility: hidden;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(133,140,148,1.00);
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .Icons .ActionresizenotaMaterialicon {
+	visibility: hidden;
+	position: absolute;
+	left: 294px;
+	top: -10.046875px;
+	width: 6px;
+	height: 6px;
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .Icons .ActionresizenotaMaterialicon .IconMask_2 {
+	position: absolute;
+	left: 0.8671875px;
+	top: 0.86767578125px;
+	width: 71.06119791666666%;
+	height: 71.07747395833334%;
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .Icons .ActionresizenotaMaterialicon .IconMask_2 .areaicon {
+	position: absolute;
+	left: -0.1171875px;
+	top: -0.12255859375px;
+	width: 117.26981218506643%;
+	height: 117.24295855278224%;
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .Icons .ActionresizenotaMaterialicon .IconMask_2 .areaicon .border {
+	position: absolute;
+	left: 2.22265625px;
+	top: 2.294921875px;
+	width: 55.54687499999999%;
+	height: 54.1015625%;
+	background: rgba(133,140,148,1.00);
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .Icons .ActionresizenotaMaterialicon .IconMask_2 .areaicon .border_1 {
+	position: absolute;
+	left: -0.787109375px;
+	top: -0.76513671875px;
+	width: 100%;
+	height: 97.373046875%;
+	background: rgba(133,140,148,1.00);
+}
+.appointments_appointments .CondensedActive .MainCondensed .Input .Icons .ActionresizenotaMaterialicon .ColorFill_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(133,140,148,1.00);
+}
+.appointments_appointments .CondensedActive_1 {
+	position: absolute;
+	left: 650px;
+	top: 196px;
+	width: 183px;
+	height: 48px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	align-items: center;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 183px;
+	height: 48.001953125px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	border-radius: 2px;
+	background: #FFFFFF;
+	border: 1px solid #BFD2F3;
+	border-radius: 12px;
+	
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .dropdown-toggle {
+	
+	border-radius: 12px;
+	width: 100%;
+	height: 100%;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .dropdown-toggle ::after{
+
+	margin-left: 50px;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 183px;
+	height: 48.001953125px;
+	display: flex;
+	flex-direction: column;
+	padding-right: 16px;
+	padding-left: 16px;
+	box-sizing: border-box;
+	background: rgba(255,255,255,1.00);
+	border-radius: 12px;
+	border: 1px solid rgba(191.00000381469727,210.00000268220901,243.00000071525574,1);
+	box-sizing: border-box;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .Label_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+	height: 0.0009765625px;
+	align-self: stretch;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .Label_2 .Label_3 {
+	position: absolute;
+	left: 0px;
+	top: -10px;
+	width: 106px;
+	height: 20.0009765625px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	border-radius: 4px;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .Label_2 .Label_3 .LabelBackground_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 0.0009765625px;
+	align-self: stretch;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .Label_2 .Label_3 .LabelBackground_1 .Background_1 {
+	position: absolute;
+	margin-left: -4px;
+	margin-right: -4px;
+	top: 0px;
+	width: 114px;
+	height: 20px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 8px;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .Label_2 .Label_3 .Text_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 106px;
+	height: 20px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .Label_2 .Label_3 .Text_1 .InputLabel_1 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 106px;
+	display: flex;
+	align-items: center;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .IconText_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+	width: 17px;
+	height: 24px;
+	display: flex;
+	box-sizing: border-box;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .IconText_1 .Communicationphone_1 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 24px;
+	height: 24px;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .IconText_1 .Communicationphone_1 .IconMask_3 {
+	position: absolute;
+	left: 3.017578125px;
+	top: 3.01806640625px;
+	width: 74.84537760416666%;
+	height: 74.84944661458334%;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .IconText_1 .Communicationphone_1 .IconMask_3 .Round_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .IconText_1 .Communicationphone_1 .ColorFill_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(133,140,148,1.00);
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .IconText_1 .TextArea_1 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .Icons_1 {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+	height: 0.0009765625px;
+	align-self: stretch;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .Icons_1 .Navigationarrowdrop_down_1 {
+	position: absolute;
+	left: 128px;
+	top: -36px;
+	width: 15.894039735099339%;
+	height: 2457600%;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .Icons_1 .Navigationarrowdrop_down_1 .Vector_13 {
+	position: absolute;
+	left: 7px;
+	top: 8.9990234375px;
+	width: 50%;
+	height: 25%;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .Icons_1 .Navigationclose_1 {
+	position: absolute;
+	right: 30px;
+	bottom: 12.0009765625px;
+	width: 24px;
+	height: 24px;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .Icons_1 .Navigationclose_1 .IconMask_4 {
+	position: absolute;
+	left: 5.408203125px;
+	top: 5.40771484375px;
+	width: 54.939778645833336%;
+	height: 54.937744140625%;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .Icons_1 .Navigationclose_1 .ColorFill_4 {
+	visibility: hidden;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(133,140,148,1.00);
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .Icons_1 .ActionresizenotaMaterialicon_1 {
+	visibility: hidden;
+	position: absolute;
+	left: 294px;
+	top: -10.046875px;
+	width: 6px;
+	height: 6px;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .Icons_1 .ActionresizenotaMaterialicon_1 .IconMask_5 {
+	position: absolute;
+	left: 0.8671875px;
+	top: 0.86767578125px;
+	width: 71.06119791666666%;
+	height: 71.07747395833334%;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .Icons_1 .ActionresizenotaMaterialicon_1 .IconMask_5 .areaicon_1 {
+	position: absolute;
+	left: -0.1171875px;
+	top: -0.12255859375px;
+	width: 117.26981218506643%;
+	height: 117.24295855278224%;
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .Icons_1 .ActionresizenotaMaterialicon_1 .IconMask_5 .areaicon_1 .border_2 {
+	position: absolute;
+	left: 2.22265625px;
+	top: 2.294921875px;
+	width: 55.54687499999999%;
+	height: 54.1015625%;
+	background: rgba(133,140,148,1.00);
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .Icons_1 .ActionresizenotaMaterialicon_1 .IconMask_5 .areaicon_1 .border_3 {
+	position: absolute;
+	left: -0.787109375px;
+	top: -0.76513671875px;
+	width: 100%;
+	height: 97.373046875%;
+	background: rgba(133,140,148,1.00);
+}
+.appointments_appointments .CondensedActive_1 .MainCondensed_1 .Input_1 .Icons_1 .ActionresizenotaMaterialicon_1 .ColorFill_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(133,140,148,1.00);
+}
+.appointments_appointments .CondensedActive_2 {
+	position: absolute;
+	left: 849px;
+	top: 196px;
+	width: 183px;
+	height: 48px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	align-items: center;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 {
+
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 183px;
+	height: 48.001953125px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	border-radius: 2px;
+	background: #FFFFFF;
+	border: 1px solid #BFD2F3;
+	border-radius: 12px;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .dropdown-toggle {
+	
+	width: 100%;
+	height: 100%;
+	border-radius: 12px;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 ::after{
+	margin-left: 50px;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 183px;
+	height: 48.001953125px;
+	display: flex;
+	flex-direction: column;
+	padding-right: 16px;
+	padding-left: 16px;
+	box-sizing: border-box;
+	background: rgba(255,255,255,1.00);
+	border-radius: 12px;
+	border: 1px solid rgba(191.00000381469727,210.00000268220901,243.00000071525574,1);
+	box-sizing: border-box;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .Label_4 {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+	height: 0.0009765625px;
+	align-self: stretch;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .Label_4 .Label_5 {
+	position: absolute;
+	left: 0px;
+	top: -10px;
+	width: 38px;
+	height: 20.0009765625px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	border-radius: 4px;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .Label_4 .Label_5 .LabelBackground_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 0.0009765625px;
+	align-self: stretch;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .Label_4 .Label_5 .LabelBackground_2 .Background_2 {
+	position: absolute;
+	margin-left: -4px;
+	margin-right: -4px;
+	top: 0px;
+	width: 46px;
+	height: 20px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 8px;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .Label_4 .Label_5 .Text_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 38px;
+	height: 20px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .Label_4 .Label_5 .Text_2 .InputLabel_2 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 38px;
+	display: flex;
+	align-items: center;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .IconText_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+	width: 17px;
+	height: 24px;
+	display: flex;
+	box-sizing: border-box;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .IconText_2 .Communicationphone_2 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 24px;
+	height: 24px;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .IconText_2 .Communicationphone_2 .IconMask_6 {
+	position: absolute;
+	left: 3.017578125px;
+	top: 3.01806640625px;
+	width: 74.84537760416666%;
+	height: 74.84944661458334%;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .IconText_2 .Communicationphone_2 .IconMask_6 .Round_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .IconText_2 .Communicationphone_2 .ColorFill_6 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(133,140,148,1.00);
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .IconText_2 .TextArea_2 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .Icons_2 {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+	height: 0.0009765625px;
+	align-self: stretch;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .Icons_2 .Navigationarrowdrop_down_2 {
+	position: absolute;
+	left: 128px;
+	top: -36px;
+	width: 15.894039735099339%;
+	height: 2457600%;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .Icons_2 .Navigationarrowdrop_down_2 .Vector_14 {
+	position: absolute;
+	left: 7px;
+	top: 8.9990234375px;
+	width: 50%;
+	height: 25%;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .Icons_2 .Navigationclose_2 {
+	position: absolute;
+	right: 30px;
+	bottom: 12.0009765625px;
+	width: 24px;
+	height: 24px;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .Icons_2 .Navigationclose_2 .IconMask_7 {
+	position: absolute;
+	left: 5.408203125px;
+	top: 5.40771484375px;
+	width: 54.939778645833336%;
+	height: 54.937744140625%;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .Icons_2 .Navigationclose_2 .ColorFill_7 {
+	visibility: hidden;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(133,140,148,1.00);
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .Icons_2 .ActionresizenotaMaterialicon_2 {
+	visibility: hidden;
+	position: absolute;
+	left: 294px;
+	top: -10.046875px;
+	width: 6px;
+	height: 6px;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .Icons_2 .ActionresizenotaMaterialicon_2 .IconMask_8 {
+	position: absolute;
+	left: 0.8671875px;
+	top: 0.86767578125px;
+	width: 71.06119791666666%;
+	height: 71.07747395833334%;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .Icons_2 .ActionresizenotaMaterialicon_2 .IconMask_8 .areaicon_2 {
+	position: absolute;
+	left: -0.1171875px;
+	top: -0.12255859375px;
+	width: 117.26981218506643%;
+	height: 117.24295855278224%;
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .Icons_2 .ActionresizenotaMaterialicon_2 .IconMask_8 .areaicon_2 .border_4 {
+	position: absolute;
+	left: 2.22265625px;
+	top: 2.294921875px;
+	width: 55.54687499999999%;
+	height: 54.1015625%;
+	background: rgba(133,140,148,1.00);
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .Icons_2 .ActionresizenotaMaterialicon_2 .IconMask_8 .areaicon_2 .border_5 {
+	position: absolute;
+	left: -0.787109375px;
+	top: -0.76513671875px;
+	width: 100%;
+	height: 97.373046875%;
+	background: rgba(133,140,148,1.00);
+}
+.appointments_appointments .CondensedActive_2 .MainCondensed_2 .Input_2 .Icons_2 .ActionresizenotaMaterialicon_2 .ColorFill_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(133,140,148,1.00);
+}
+.appointments_appointments .CondensedActive_3 {
+	position: absolute;
+	left: 1048px;
+	top: 196px;
+	width: 183px;
+	height: 48px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	align-items: center;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 183px;
+	height: 48.001953125px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	border-radius: 2px;
+	background: #FFFFFF;
+	border: 1px solid #BFD2F3;
+	border-radius: 12px;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .dropdown-toggle {
+	
+	width: 100%;
+	height: 100%;
+	border-radius: 12px;
+	
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .dropdown-toggle ::after {
+
+	margin-left: 50px;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 183px;
+	height: 48.001953125px;
+	display: flex;
+	flex-direction: column;
+	padding-right: 16px;
+	padding-left: 16px;
+	box-sizing: border-box;
+	background: rgba(255,255,255,1.00);
+	border-radius: 12px;
+	border: 1px solid rgba(191.00000381469727,210.00000268220901,243.00000071525574,1);
+	box-sizing: border-box;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .Label_6 {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+	height: 0.0009765625px;
+	align-self: stretch;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .Label_6 .Label_7 {
+	position: absolute;
+	left: 0px;
+	top: -10px;
+	width: 42px;
+	height: 20.0009765625px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	border-radius: 4px;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .Label_6 .Label_7 .LabelBackground_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 0.0009765625px;
+	align-self: stretch;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .Label_6 .Label_7 .LabelBackground_3 .Background_3 {
+	position: absolute;
+	margin-left: -4px;
+	margin-right: -4px;
+	top: 0px;
+	width: 50px;
+	height: 20px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 8px;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .Label_6 .Label_7 .Text_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	width: 42px;
+	height: 20px;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .Label_6 .Label_7 .Text_3 .InputLabel_3 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 42px;
+	display: flex;
+	align-items: center;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .IconText_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+	width: 17px;
+	height: 24px;
+	display: flex;
+	box-sizing: border-box;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .IconText_3 .Communicationphone_3 {
+	visibility: hidden;
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 24px;
+	height: 24px;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .IconText_3 .Communicationphone_3 .IconMask_9 {
+	position: absolute;
+	left: 3.017578125px;
+	top: 3.01806640625px;
+	width: 74.84537760416666%;
+	height: 74.84944661458334%;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .IconText_3 .Communicationphone_3 .IconMask_9 .Round_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .IconText_3 .Communicationphone_3 .ColorFill_9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(133,140,148,1.00);
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .IconText_3 .TextArea_3 {
+	position: relative;
+	flex: none;
+	margin-right: 4px;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	color: rgba(41,55,95,1.00);
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .Icons_3 {
+	position: relative;
+	flex: none;
+	margin-bottom: 12px;
+	height: 0.0009765625px;
+	align-self: stretch;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .Icons_3 .Navigationarrowdrop_down_3 {
+	position: absolute;
+	left: 128px;
+	top: -36px;
+	width: 15.894039735099339%;
+	height: 2457600%;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .Icons_3 .Navigationarrowdrop_down_3 .Vector_15 {
+	position: absolute;
+	left: 7px;
+	top: 8.9990234375px;
+	width: 50%;
+	height: 25%;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .Icons_3 .Navigationclose_3 {
+	position: absolute;
+	right: 30px;
+	bottom: 12.0009765625px;
+	width: 24px;
+	height: 24px;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .Icons_3 .Navigationclose_3 .IconMask_10 {
+	position: absolute;
+	left: 5.408203125px;
+	top: 5.40771484375px;
+	width: 54.939778645833336%;
+	height: 54.937744140625%;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .Icons_3 .Navigationclose_3 .ColorFill_10 {
+	visibility: hidden;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(133,140,148,1.00);
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .Icons_3 .ActionresizenotaMaterialicon_3 {
+	visibility: hidden;
+	position: absolute;
+	left: 294px;
+	top: -10.046875px;
+	width: 6px;
+	height: 6px;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .Icons_3 .ActionresizenotaMaterialicon_3 .IconMask_11 {
+	position: absolute;
+	left: 0.8671875px;
+	top: 0.86767578125px;
+	width: 71.06119791666666%;
+	height: 71.07747395833334%;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .Icons_3 .ActionresizenotaMaterialicon_3 .IconMask_11 .areaicon_3 {
+	position: absolute;
+	left: -0.1171875px;
+	top: -0.12255859375px;
+	width: 117.26981218506643%;
+	height: 117.24295855278224%;
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .Icons_3 .ActionresizenotaMaterialicon_3 .IconMask_11 .areaicon_3 .border_6 {
+	position: absolute;
+	left: 2.22265625px;
+	top: 2.294921875px;
+	width: 55.54687499999999%;
+	height: 54.1015625%;
+	background: rgba(133,140,148,1.00);
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .Icons_3 .ActionresizenotaMaterialicon_3 .IconMask_11 .areaicon_3 .border_7 {
+	position: absolute;
+	left: -0.787109375px;
+	top: -0.76513671875px;
+	width: 100%;
+	height: 97.373046875%;
+	background: rgba(133,140,148,1.00);
+}
+.appointments_appointments .CondensedActive_3 .MainCondensed_3 .Input_3 .Icons_3 .ActionresizenotaMaterialicon_3 .ColorFill_11 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: rgba(133,140,148,1.00);
+}
+.appointments_appointments .Group776 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 77px;
+	height: 953px;
+}
+.appointments_appointments .Group776 .Rectangle130 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 77px;
+	height: 953px;
+	background: rgba(32,55,101,1.00);
+}
+.appointments_appointments .Group776 .noun_queue_26214581 {
+	position: absolute;
+	left: 26px;
+	top: 227px;
+	width: 24px;
+	height: 20.66650390625px;
+}
+.appointments_appointments .Group776 .noun_queue_26214581 .Vector_16 {
+	position: absolute;
+	left: 0.525390625px;
+	top: 8.03955078125px;
+	width: 33.33333333333333%;
+	height: 35.501476668635554%;
+}
+.appointments_appointments .Group776 .noun_queue_26214581 .Vector_17 {
+	position: absolute;
+	left: 5.140625px;
+	top: 0.4345703125px;
+	width: 25.862630208333332%;
+	height: 30.759598346131128%;
+}
+.appointments_appointments .Group776 .noun_queue_26214581 .Vector_18 {
+	position: absolute;
+	left: 4.51171875px;
+	top: 10.62353515625px;
+	width: 33.3740234375%;
+	height: 35.43768458357944%;
+}
+.appointments_appointments .Group776 .noun_queue_26214581 .Vector_19 {
+	position: absolute;
+	left: 8.51171875px;
+	top: 13.15087890625px;
+	width: 64.04622395833334%;
+	height: 35.383343177790906%;
+}
+.appointments_appointments .Group776 .noun_queue_26214581 .Vector_20 {
+	position: absolute;
+	left: 13.119140625px;
+	top: 5.517578125px;
+	width: 26.066080729166668%;
+	height: 30.769049025398697%;
+}
+.appointments_appointments .Group776 .noun_queue_26214581 .Vector_21 {
+	position: absolute;
+	left: 9.130859375px;
+	top: 3.01220703125px;
+	width: 25.8544921875%;
+	height: 30.771411695215594%;
+}
+.appointments_appointments .Group776 .Rectangle176 {
+	position: absolute;
+	left: 0px;
+	top: 269px;
+	width: 77px;
+	height: 46px;
+	background: rgba(255,255,255,0.10);
+}
+.appointments_appointments .Group776 .noun_appointment_24644561 {
+	position: absolute;
+	left: 27px;
+	top: 280px;
+	width: 28.57142857142857%;
+	height: 2.5183630640083945%;
+}
+.appointments_appointments .Group776 .noun_appointment_24644561 .Group_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.appointments_appointments .Group776 .noun_appointment_24644561 .Group_5 .Vector_22 {
+	position: absolute;
+	left: 7.109375px;
+	top: 13.02001953125px;
+	width: 35.360440340909086%;
+	height: 26.499430338541668%;
+}
+.appointments_appointments .Group776 .noun_appointment_24644561 .Group_5 .Vector_23 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.appointments_appointments .Group776 .SizeMediumdefaultColorCustomerIcontrue {
+	position: absolute;
+	left: 20px;
+	top: 802px;
+	width: 46.75324675324675%;
+	height: 3.777544596012592%;
+	background: rgba(228,229,231,1.00);
+	border-radius: 100px;
+}
+.appointments_appointments .Group776 .SizeMediumdefaultColorCustomerIcontrue .Rectangle591 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(0deg, rgba(242,242,242,1.00), rgba(242,242,242,1.00));
+	border-radius: 52px;
+	background-size: cover;
+}
+.appointments_appointments .Group776 .noun_bill_11599131 {
+	position: absolute;
+	left: 26px;
+	top: 393px;
+	width: 24px;
+	height: 24px;
+}
+.appointments_appointments .Group776 .noun_bill_11599131 .Group_6 {
+	position: absolute;
+	left: 0.087890625px;
+	top: 0.06640625px;
+	width: 99.6337890625%;
+	height: 99.37744140625%;
+}
+.appointments_appointments .Group776 .noun_bill_11599131 .Group_6 .Group_7 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.appointments_appointments .Group776 .noun_bill_11599131 .Group_6 .Group_7 .Vector_24 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.appointments_appointments .Group776 .noun_Rupee_8852561 {
+	position: absolute;
+	left: 26px;
+	top: 336px;
+	width: 25px;
+	height: 25px;
+}
+.appointments_appointments .Group776 .noun_Rupee_8852561 .Group_8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.appointments_appointments .Group776 .noun_Rupee_8852561 .Group_8 .Vector_25 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.appointments_appointments .Group776 .Vector_26 {
+	position: absolute;
+	left: 27px;
+	top: 449px;
+	width: 30.570211038961038%;
+	height: 2.5393699173662116%;
+}
+.appointments_appointments .Group776 .Line53 {
+	position: absolute;
+	left: 72px;
+	top: 269px;
+	width: 0px;
+	height: 46px;
+	border: 5px solid rgba(252.00000017881393,105.00000134110451,100.00000163912773,1);
+}
+.appointments_appointments .Group776 .Vector_27 {
+	position: absolute;
+	left: 27px;
+	top: 173px;
+	width: 28.57142857142857%;
+	height: 2.308499475341028%;
+}
