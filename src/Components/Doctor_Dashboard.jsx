@@ -409,7 +409,7 @@ export default function Doctor_Dashboard () {
 					<span className='Marley'>Prajeesh</span>
 					<div className='StatusUnpaid'>
 						<div className='Rectangle67'/>
-							<span  className='Vector_26'><img src = {ImgAsset.Doctor_Dashboard_Vector_26} /></span>
+							<span  className='Vector_26'>	</span>
 							<span className='Tobefinalized'>To be finalized</span>
 						</div>
 					<div className='Ellipse7' style={{backgroundImage: `url(${ImgAsset.Doctor_Dashboard_Ellipse7})`}}/>
@@ -500,9 +500,9 @@ export default function Doctor_Dashboard () {
 					<div className='Rectangle197'/>
 					<span className='UserName'>6:30 PM - 9:00 PM  •  2 hours 30 minutes</span>
 					<span className='UserName_1'>Block</span>
-					<span className='Vector_33_1'>
+					{/* <span className='Vector_33_1'>
 						<img className='Vector_33' src = {ImgAsset.Doctor_Dashboard_Vector_33} />
-					</span>
+					</span> */}
 				</div>
 				<div className='Rectangle633_2'/>
 				<span className='ViewallSchedule'>View all Schedule</span>
@@ -552,7 +552,7 @@ export default function Doctor_Dashboard () {
 					<img className='Vector_40' src = {ImgAsset.Doctor_Dashboard_Vector_40} />
 				</div>
 			</div>
-			<div className='Group776'>
+			{/* <div className='Group776'>
 				<div className='Rectangle130_1'/>
 				<div className='noun_queue_26214581'>
 					<img className='Vector_41' src = {ImgAsset.Doctor_Dashboard_Vector_41} />
@@ -586,7 +586,7 @@ export default function Doctor_Dashboard () {
 				<img className='Vector_51' src = {ImgAsset.Doctor_Dashboard_Vector_51} />
 				<img className='Line53' src = {ImgAsset.Doctor_Dashboard_Line53} />
 				<img className='Vector_52' src = {ImgAsset.Doctor_Dashboard_Vector_52} />
-			</div>
+			</div> */}
 			<div className='Group7227'>
 				<img className='Rectangle130_2' src = {ImgAsset.Doctor_Dashboard_Rectangle130_2} />
 				<div className='noun_Info_26910461'>

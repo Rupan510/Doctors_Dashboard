@@ -1,3 +1,79 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+}
+.container{
+    display:flex;
+    
+}
+main{
+    width: 100%;
+    padding: 0px;
+}
+.sidebar{
+    background: #203765;
+    color: #fff;
+    height: 100vh;
+    width: 100px;
+    transition: all 0.5s;
+}
+.top_section{
+    display: flex;
+    align-items:center;
+    padding:40px 30px;
+}
+.logo{
+    font-size: 30px;
+}
+.bars{
+    display: flex;
+    font-size: 25px;
+    margin-left: 50px;
+}
+.link{
+    display: flex;
+    color: #fff;
+    padding: 10px 30px;
+    gap: 15px;
+    transition: all 0.5s;
+    
+}
+.link:hover{
+    background: rgba(255, 255, 255, 0.1);
+    color: #000;
+    transition: all 0.5s;
+    border-right: 4px solid #FC6964;
+}
+.active{
+    background: rgba(255, 255, 255, 0.1);
+    color: #000;
+    border-right: 4px solid #FC6964; ;
+}
+.icon, .link_text{
+    font-size: 20px;
+}
+
+.contain{
+    display: flex;
+}
+
+.Doctor_image{
+    
+    margin-left: 20px;
+    margin-top: 85px;
+	width: 36px;
+	height: 36px;
+	background: linear-gradient(0deg, rgba(196,196,196,1.00), rgba(196,196,196,1.00));
+	border-radius: 50%;
+	background-size: cover;
+}
+
+.setting{
+    margin-left: -8px;
+    color: #FFFFFF;
+}
+    
+
+

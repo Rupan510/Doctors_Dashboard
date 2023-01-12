@@ -262,41 +262,7 @@ export default function Appointments () {
 							</ul>
 						</div>
 			</div>
-			<div className='Group776'>
-				<div className='Rectangle130'/>
-				<div className='noun_queue_26214581'>
-					<img className='Vector_12' src = {ImgAsset.appointments_Vector_12} />
-					<img className='Vector_13' src = {ImgAsset.appointments_Vector_13} />
-					<img className='Vector_14' src = {ImgAsset.appointments_Vector_14} />
-					<img className='Vector_15' src = {ImgAsset.appointments_Vector_15} />
-					<img className='Vector_16' src = {ImgAsset.appointments_Vector_16} />
-					<img className='Vector_17' src = {ImgAsset.appointments_Vector_17} />
-				</div>
-				<div className='Rectangle176'/>
-				<div className='noun_appointment_24644561'>
-					<div className='Group_5'>
-						<img className='Vector_18' src = {ImgAsset.appointments_Vector_18} />
-						<img className='Vector_19' src = {ImgAsset.appointments_Vector_19} />
-					</div>
-				</div>
-				<div className='SizeMediumdefaultColorCustomerIcontrue'><div className='Rectangle591' style={{backgroundImage: `url(${ImgAsset.appointments_Rectangle591}),linear-gradient(0deg, rgba(242,242,242,1.00), rgba(242,242,242,1.00))`}}/>
-				</div>
-				<div className='noun_bill_11599131'>
-					<div className='Group_6'>
-						<div className='Group_7'>
-							<img className='Vector_20' src = {ImgAsset.appointments_Vector_20} />
-						</div>
-					</div>
-				</div>
-				<div className='noun_Rupee_8852561'>
-					<div className='Group_8'>
-						<img className='Vector_21' src = {ImgAsset.appointments_Vector_21} />
-					</div>
-				</div>
-				<img className='Vector_22' src = {ImgAsset.appointments_Vector_22} />
-				<img className='Line53' src = {ImgAsset.appointments_Line53} />
-				<img className='Vector_23' src = {ImgAsset.appointments_Vector_23} />
-			</div>
+			
 		</div>
 	)
 }
