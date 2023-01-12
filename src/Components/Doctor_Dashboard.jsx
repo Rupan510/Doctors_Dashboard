@@ -322,7 +322,7 @@ export default function Doctor_Dashboard () {
 							<div className='Group_9'>
 								<div className='Group_10'>
 									<div className='Group_11'>
-										<img className='Vector_13' src = {ImgAsset.Doctor_Dashboard_Vector_13} />
+										{/* <img className='Vector_13' src = {ImgAsset.Doctor_Dashboard_Vector_13} /> */}
 										<img className='Vector_14' src = {ImgAsset.Doctor_Dashboard_Vector_14} />
 									</div>
 								</div>
@@ -363,7 +363,7 @@ export default function Doctor_Dashboard () {
 			<div className='noun_notification_40181551'>
 				<div className='Group_12'>
 					<img className='Vector_17' src = {ImgAsset.Doctor_Dashboard_Vector_17} />
-					<img className='Vector_18' src = {ImgAsset.Doctor_Dashboard_Vector_18} />
+					{/* <img className='Vector_18' src = {ImgAsset.Doctor_Dashboard_Vector_18} /> */}
 					<img className='Vector_19' src = {ImgAsset.Doctor_Dashboard_Vector_19} />
 					<img className='Vector_20' src = {ImgAsset.Doctor_Dashboard_Vector_20} />
 				</div>
