@@ -3,9 +3,13 @@ import React from 'react'
 import './Doctor_Dashboard.css'
 import ImgAsset from '../public'
 import Component29 from "./Component29"
+import Sidebar from './Sidebar'
 export default function Doctor_Dashboard () {
 	return (
+		<>
+		
 		<div className='Doctor_Dashboard_Doctor_Dashboard'>
+			<Sidebar />
 			<div className='Rectangle130'/>
 			<div className='Group1078'>
 				<div className='Rectangle633'/>
@@ -606,5 +610,6 @@ export default function Doctor_Dashboard () {
 				<span className='Lastlogin_1'>Receive   <img className='Vector_54' src = {ImgAsset.Doctor_Dashboard_Vector_54} />   Anytime Consult</span>
 			</div>
 		</div>
+		</>
 	)
 }

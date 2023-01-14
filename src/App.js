@@ -10,22 +10,28 @@ import Doctor_Dashboard from "./Components/Doctor_Dashboard";
 import Feedback from "./pages/Feedback";
 import People from "./pages/People";
 import Setting from "./pages/Setting";
-
-
+import Login from "./Components/Login";
+import Home from "./Components/Home";
 
 function App() {
   return (
     <BrowserRouter>
-      <Sidebar>
         <Routes>
-          <Route path="/" element={<Doctor_Dashboard />} />
+
+          <Route path="/" element={<Login />} />
+          <Route path="/home" element={<Home />} />
+        
+
+        
+          <Route path="/dashboard" element={<Doctor_Dashboard />} />
           <Route path="/people" element={<People />} />
           <Route path="/appointments" element={<Appointments />} />
           <Route path="/amount" element={<Amount />} />
           <Route path="/feedback" element={<Feedback />} />
           <Route path="/setting" element={<Setting />} />
         </Routes>
-      </Sidebar>
+      
+          
     </BrowserRouter>
     
   );

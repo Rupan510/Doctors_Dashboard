@@ -21,6 +21,8 @@
 	width: 100%;
 	height: 214px;
 	background: rgba(32,55,101,1.00);
+	margin-left: 70px;
+	
 }
 .Doctor_Dashboard_Doctor_Dashboard .Group1078 {
 	visibility: hidden;
@@ -4148,6 +4150,7 @@ border: 1.5px solid #FC6964;
 	width: 77px;
 	height: 1726px;
 	background: rgba(32,55,101,1.00);
+	margin-left: 70px;
 }
 .Doctor_Dashboard_Doctor_Dashboard .Group776 .noun_queue_26214581 {
 	position: absolute;

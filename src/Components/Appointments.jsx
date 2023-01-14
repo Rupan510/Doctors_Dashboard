@@ -2,9 +2,11 @@
 import React from 'react'
 import './Appointments.css'
 import ImgAsset from '../public'
+import Sidebar from './Sidebar'
 export default function Appointments () {
 	return (
 		<div className='appointments_appointments'>
+			<Sidebar />
 			<span className='Appointments'>Appointments</span>
 			<div className='Group805'>
 				<span className='Subtitle'>List of booked appointments</span>

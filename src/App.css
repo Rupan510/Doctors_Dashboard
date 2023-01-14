@@ -74,6 +74,31 @@ main{
     margin-left: -8px;
     color: #FFFFFF;
 }
+
+.setting-div{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    margin-top: -2500px;
+}
+.people-div{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    margin-top: -2500px;
+}
+.feedback-div{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    margin-top: -2500px;
+}
+.amount-div{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    margin-top: -2500px;
+}
     
 
 
